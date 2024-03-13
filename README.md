@@ -1,1 +1,3 @@
 # QuantiMethods
+
+PhD inManagement Wiki
