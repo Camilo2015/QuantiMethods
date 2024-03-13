@@ -1,3 +1,3 @@
-# QuantiMethods
+# Métodos Cuantitativos 
 
-PhD inManagement [Wiki](https://github.com/Camilo2015/QuantiMethods/wiki/Inicio)
+PhD in Management [Wiki](https://github.com/Camilo2015/QuantiMethods/wiki/Inicio)
